@@ -8,7 +8,6 @@ document.getElementById('abrir-btn').addEventListener('click', function() {
     cartaAbierta.classList.add('abierta');
     cartaAbierta.style.display = 'flex';
 });
-
 document.getElementById('cerrar-btn').addEventListener('click', function() {
     const cartaCerrada = document.getElementById('carta-cerrada');
     const cartaAbierta = document.getElementById('carta-abierta');

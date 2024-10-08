@@ -11,7 +11,6 @@ body {
     background-attachment: fixed;
     color: white; /* Cambiamos el color del texto a blanco para resaltar */
 }
-
 .carta {
     position: relative;
     width: 300px;
